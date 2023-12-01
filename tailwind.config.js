@@ -19,6 +19,7 @@ module.exports = {
           800: '#25282C',
           900: '#151719',
         },
+        /* original
         purple: {
           100: '#F4F4FF',
           200: '#E2E1FF',
@@ -26,6 +27,18 @@ module.exports = {
           400: '#ABABFF',
           500: '#8D8DFF',
           600: '#5D5DFF',
+          700: '#4B4ACF',
+          800: '#38379C',
+          900: '#262668',
+        },
+        */
+        purple: {
+          100: '#F4F4FF',
+          200: '#E2E1FF',
+          300: '#CBCCFF',
+          400: '#ABABFF',
+          500: '#8D8DFF',
+          600: '#e74443', // CHANGED THIS TO RED -> EVERYTHING CHANGED
           700: '#4B4ACF',
           800: '#38379C',
           900: '#262668',
