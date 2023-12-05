@@ -8,6 +8,7 @@ module.exports = {
   theme: {
     extend: {
       colors: {
+        /* original
         gray: {
           100: '#EBF1F5',
           200: '#D9E3EA',
@@ -19,7 +20,7 @@ module.exports = {
           800: '#25282C',
           900: '#151719',
         },
-        /* original
+       
         purple: {
           100: '#F4F4FF',
           200: '#E2E1FF',
@@ -32,6 +33,17 @@ module.exports = {
           900: '#262668',
         },
         */
+       gray: {
+          100: '#EBF1F5',
+          200: '#D9E3EA',
+          300: '#C5D2DC',
+          400: '#55595F', // <- Changed this to darker grey
+          500: '#707D86',
+          600: '#55595F',
+          700: '#33363A',
+          800: '#25282C',
+          900: '#151719',
+        },
         purple: {
           100: '#F4F4FF',
           200: '#E2E1FF',
