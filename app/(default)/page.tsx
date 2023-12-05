@@ -1,5 +1,5 @@
 export const metadata = {
-  title: 'Home - Open PRO',
+  title: 'Home - lool.sg',
   description: 'Page description',
 }
 
